@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnubyteCode
 - 👀 I’m interested in your day.
-- 🌱 I’m currently learning how to do more than cut/copy/paste then build.
+- 🌱 I’m currently learning how to do more than cut/copy/paste.
 - 💞️ I’m looking to collaborate on user experience design and GUIs.
 - 📫 How to reach me ...keep reaching. I'm there.
 - 😄 Pronouns: ლ(ಠ▃ಠლ)
